@@ -12,7 +12,7 @@ body {
   width: 600px;
   height: 400px;
   border: 2px solid #ccc;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 10px 10px 10px 10px #FF7F50;
   overflow: hidden;
   background-color: #fff;
 }
