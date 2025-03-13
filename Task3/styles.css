@@ -49,10 +49,11 @@ body {
   right: 10px;
 }
 .nav-btn:hover {
-  background-color: rgba(255, 255, 255, 1);
+  background-color: #FF7F50;
 }
 .caption {
   position: absolute;
+  opacity: 50%;
   bottom: 10px;
   width: 100%;
   text-align: center;
