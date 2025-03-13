@@ -53,7 +53,7 @@ body {
 }
 .caption {
   position: absolute;
-  opacity: 50%;
+  opacity: 75%;
   bottom: 10px;
   width: 100%;
   text-align: center;
