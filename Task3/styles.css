@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #f0f0f0;
+  background-color: #808000;
   margin: 0;
 }
 .slider-container {
@@ -12,7 +12,7 @@ body {
   width: 600px;
   height: 400px;
   border: 2px solid #ccc;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
   overflow: hidden;
   background-color: #fff;
 }
