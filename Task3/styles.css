@@ -11,8 +11,8 @@ body {
   position: relative;
   width: 600px;
   height: 400px;
-  border: 2px solid #ccc;
-  box-shadow: 10px 10px 10px 10px #FF7F50;
+  border: 2px solid #808000;
+  box-shadow: 10px 10px #FF7F50;
   overflow: hidden;
   background-color: #fff;
 }
